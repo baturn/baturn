@@ -1,7 +1,7 @@
 ### 👋 I'm Bryce
 
-I'm a software engineer who works on cool things at GitHub
+I'm a software engineer and reformed chemist who works on cool things at GitHub.
 
-I previously worked Morgan Stanley on the private markets team for Shareworks and before that I worked as a pentester.
+I've previously worked in fintech as a software engineer and infosec consulting. I started my tech career after deciding that chemistry wasn't the right career for me in the middle of my PhD (my adviser leaving also played a part in the decision).
 
-Interested in working on fullstack app development, learning 🦀 slowly in my free time
+I'm interested in fullstack app development, cloud computing, infosec, and have been learning 🦀 slowly in my free time.
